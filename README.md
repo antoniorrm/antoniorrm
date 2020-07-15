@@ -5,7 +5,7 @@ My name is Antonio Raimundo from Brazil (🇧🇷). I love technology and music(
 Would you like to find me?
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/felipefialho_)](https://twitter.com/djblack_oficial)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antoniorrm)](https://www.linkedin.com/in/felipefialho)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antoniorrm)](https://www.linkedin.com/in/antoniorrm)
 
 <!--
 **antoniorrm/antoniorrm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
